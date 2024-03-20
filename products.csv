@@ -1,0 +1,36 @@
+Product,Quantity,Price,Category,Unit
+Apple,200,1.50,Fruit,kg
+Banana,300,0.75,Fruit,kg
+Orange,240,2.00,Fruit,kg
+Milk,20,3.00,Dairy,liter
+Bread,100,1.50,Bakery,pack
+Carrot,160,1.00,Vegetable,kg
+Tomato,180,0.75,Vegetable,kg
+Spinach,140,1.25,Vegetable,kg
+Chocolate,50,2.50,Snack,pack
+Cookies,60,1.75,Snack,pack
+Grapes,120,2.50,Fruit,kg
+Broccoli,100,1.80,Vegetable,kg
+Potato,150,0.50,Vegetable,kg
+Onion,200,0.75,Vegetable,kg
+Rice,80,4.00,Grain,kg
+Chicken,100,5.00,Meat,kg
+Soap,150,2.00,Home Essentials,unit
+Toilet Paper,100,3.50,Home Essentials,pack
+Detergent,80,6.00,Home Essentials,pack
+Pen,50,1.00,Stationary,unit
+Notebook,60,2.50,Stationary,unit
+Pencil,70,0.50,Stationary,unit
+Eraser,80,0.25,Stationary,unit
+Sharpener,90,0.75,Stationary,unit
+Toothpaste,100,1.80,Personal Care,unit
+Shampoo,80,4.50,Personal Care,unit
+Conditioner,70,5.00,Personal Care,unit
+Towel,50,8.00,Home Essentials,unit
+Cheese,30,2.75,Dairy,kg
+Yogurt,40,1.50,Dairy,pack
+Sugar,100,2.00,Groceries,kg
+Salt,120,1.00,Groceries,kg
+Biscuits,60,2.50,Snack,pack
+Tea,90,3.00,Beverage,pack
+Coffee,110,4.00,Beverage,pack
